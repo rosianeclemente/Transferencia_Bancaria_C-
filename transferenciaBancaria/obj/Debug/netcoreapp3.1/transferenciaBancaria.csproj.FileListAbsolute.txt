@@ -1,0 +1,13 @@
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/bin/Debug/netcoreapp3.1/transferenciaBancaria
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/bin/Debug/netcoreapp3.1/transferenciaBancaria.deps.json
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/bin/Debug/netcoreapp3.1/transferenciaBancaria.runtimeconfig.json
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/bin/Debug/netcoreapp3.1/transferenciaBancaria.runtimeconfig.dev.json
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/bin/Debug/netcoreapp3.1/transferenciaBancaria.dll
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/bin/Debug/netcoreapp3.1/transferenciaBancaria.pdb
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/obj/Debug/netcoreapp3.1/transferenciaBancaria.csprojAssemblyReference.cache
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/obj/Debug/netcoreapp3.1/transferenciaBancaria.AssemblyInfoInputs.cache
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/obj/Debug/netcoreapp3.1/transferenciaBancaria.AssemblyInfo.cs
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/obj/Debug/netcoreapp3.1/transferenciaBancaria.csproj.CoreCompileInputs.cache
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/obj/Debug/netcoreapp3.1/transferenciaBancaria.dll
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/obj/Debug/netcoreapp3.1/transferenciaBancaria.pdb
+/home/rosiane/Transferencia_Bancaria_C-/transferenciaBancaria/obj/Debug/netcoreapp3.1/transferenciaBancaria.genruntimeconfig.cache
